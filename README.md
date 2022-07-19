@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @petertimwalker
-- 👀 I’m interested in Simply Business
 - 🌱 I’m currently learning Rails
 
 <!---
