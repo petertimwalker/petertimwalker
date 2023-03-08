@@ -8,8 +8,8 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
 </div>
 
-<b>My GitHub Stats</b>
+<div align="center">
+	<a href="http://www.github.com/petertimwalker"><img src="https://github-readme-stats.vercel.app/api?username=petertimwalker&show_icons=true&hide=&count_private=true&theme=gruvbox" alt="petertimwalker's GitHub stats" /></a>
 
-<a href="http://www.github.com/petertimwalker"><img src="https://github-readme-stats.vercel.app/api?username=petertimwalker&show_icons=true&hide=&count_private=true&theme=gruvbox" alt="petertimwalker's GitHub stats" /></a>
-
-<a href="http://www.github.com/petertimwalker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=petertimwalker&show_icons=true&theme=gruvbox" /></a>
+	<a href="http://www.github.com/petertimwalker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=petertimwalker&show_icons=true&theme=gruvbox" /></a>
+</div>
