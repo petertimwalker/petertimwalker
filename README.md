@@ -4,14 +4,14 @@
 
 ### Working primarily in *Ruby*
 
-Other interests include **Docker**, ~~React~~, and >AWS
+Other interests include **Docker**, ~~React~~, and AWS
 
-> Things I'm learning more about...
+### Things I'm learning more about...
 * Vim
 * Markdown
 
-`
+```
 def Hello
     puts "Hello"
 end
-`
+```
