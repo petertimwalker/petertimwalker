@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @petertimwalker
 
-## I'm a Software Engineer located in Cambridge MA
+## I'm a Software Engineer from in Cambridge MA
 
 ### Working primarily in *Ruby*
 
