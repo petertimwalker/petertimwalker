@@ -10,7 +10,7 @@ Other interests include **Docker**, ~~React~~, and AWS
 * Vim
 * Markdown
 
-```
+```Ruby
 def Hello
     puts "Hello"
 end
