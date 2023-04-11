@@ -8,7 +8,7 @@ fn hello() {
 ```
 ### 2. Mobile dev
 ### 3. Go
-'''Go
+```Go
 package main
 
 import "fmt"
