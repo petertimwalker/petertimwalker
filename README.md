@@ -11,7 +11,7 @@ Other interests include **Docker**, ~~React~~, and AWS
 * Markdown
 
 ```Ruby
-def Hello
+def hello
     puts "Hello"
 end
 ```
