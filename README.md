@@ -1,17 +1,21 @@
-# 👋 Hi, I’m @petertimwalker
-
-## I'm a Software Engineer from Boston MA
-
-### Working primarily in *Ruby*
-
-Other interests include **Docker**, ~~React~~, and AWS
-
-### Things I'm learning more about...
-* Vim
-* Markdown
-
 ```Ruby
-def hello
-    puts "Hello"
+class SoftwareEngineer < Person
+  attr_reader :years_professional
+
+  def initialize(name:, place_of_birth:, birthdate:)
+    super(name: name, place_of_birth: place_of_birth, birthdate: birthdate)
+  end
+
+  def greeting
+    super # 👋 Hi, I’m @petertimwalker from Boston MA and I'm 26 years old
+    puts "I've been working professionally for the past #{years_professional} years and I'm interested in Ruby, React, AWS, and Docker"
+  end
+
+  private
+
+  def years_professional
+    @years_professional ||= 4
+  end
 end
+
 ```
