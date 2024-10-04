@@ -8,7 +8,8 @@ class SoftwareEngineer < Person
 
   def greeting
     super # 👋 Hi, I’m @petertimwalker from Boston MA and I'm 26 years old
-    puts "I've been working professionally for the past #{years_professional} years and I'm interested in Ruby, React, AWS, and Docker"
+    puts "I've been working professionally for the past #{years_professional} years"
+    puts " and I'm interested in Ruby, React, AWS, and Docker"
   end
 
   private
